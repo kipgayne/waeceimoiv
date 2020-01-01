@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://minaiyaih.0quchen.de/sitemap.xml
